@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-0hacyo.hsteamid.com/sitemap.xml
